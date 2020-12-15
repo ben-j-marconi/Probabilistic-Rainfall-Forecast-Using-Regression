@@ -11,7 +11,7 @@ Add the following to select the region and time period:
   Y (30S) (30N) RANGE
   T (Jan 1950) (Dec 2009) RANGE
 
-Similarly to Lab 6, select months corresponding to JJA
+Select months corresponding to JJA
   T 12 splitstreamgrid
   T (Jun) (Jul) (Aug) VALUES
 
